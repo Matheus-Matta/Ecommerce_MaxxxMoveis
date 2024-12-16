@@ -11,6 +11,7 @@ Este é um projeto de e-commerce desenvolvido com **React**, **Redux** e **React
   - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
   - **Redux**: Gerenciamento de estado global da aplicação.
   - **React Router**: Roteamento para navegação entre páginas do aplicativo.
+  - **Scss Css**: Utilizando scss para evitar conflitos de estilos e tornar os estilos mais fáceis de gerenciar.
 
 ## Funcionalidades
 
